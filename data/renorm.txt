@@ -1,0 +1,5 @@
+pretrained_model/EMD4warmup/best.pth.tar
+pretrained_model/EMDentropy.5warmup/best.pth.tar
+pretrained_model/EMDentropy2e-1warmup/best.pth.tar
+pretrained_model/renorm.01warmup/best.pth.tar
+pretrained_model/renorm.02warmup/best.pth.tar

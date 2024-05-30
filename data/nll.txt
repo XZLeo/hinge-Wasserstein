@@ -1,0 +1,4 @@
+/mimer/NOBACKUP/groups/alvis_cvl/ziliang/hlw/checkpoint/results/resnet18nll_ensemble2/best.pth.tar
+/mimer/NOBACKUP/groups/alvis_cvl/ziliang/hlw/checkpoint/results/resnet18nll_ensemble3/best.pth.tar
+/mimer/NOBACKUP/groups/alvis_cvl/ziliang/hlw/checkpoint/results/resnet18nll_ensemble4/best.pth.tar
+/mimer/NOBACKUP/groups/alvis_cvl/ziliang/hlw/checkpoint/results/resnet18nll_ensemble5/best.pth.tar
